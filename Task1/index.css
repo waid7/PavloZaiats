@@ -1,0 +1,41 @@
+body{
+	background: #DFE820;
+}
+.container{
+	margin: 20% 30%; 
+}
+
+.circle{
+	display: inline-block;
+	
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	
+	margin: 10px;
+	padding: 20px ;
+
+	font-size: 30px;
+	line-height: 30px;
+
+	background: #D64F15;
+	text-align: center;
+
+	cursor:pointer;
+}
+
+button{
+	margin-left: 35%;
+
+	border: 1px solid #DFE820;
+	border-radius: 10px;
+	background: #D64F15;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+
+	padding: 5px 12px;
+	cursor: pointer;
+}
+
+button:hover{
+	box-shadow: 0 0 0;
+}

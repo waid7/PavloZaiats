@@ -1,0 +1,12 @@
+body{
+	background: #DFE820;
+}
+
+div, p, button{
+	
+	display: block;
+	margin: 10px 0;
+	padding: 0;
+	border: 1px solid black;
+}
+
